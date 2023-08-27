@@ -28,4 +28,3 @@ function  displayPost(data){
 };
 
 loadPost()
-
